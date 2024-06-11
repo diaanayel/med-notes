@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "1edf2722ccdc16a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc456c68fd352da6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d02d8e9fbd28e6bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/general/ecg.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b8739850393a952a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "e75d66a655a343d1",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "db42771d83bb7313",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "6e653cfe8e3f6127",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "1e270616982b15e0",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "df0e3cde96c38197",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "64dfa97725736225",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "notes/general/ecg.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "dd7757456a65d6c5",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "notes/general/ecg.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "6c9e629e79b6141b",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "notes/general/ecg.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d02d8e9fbd28e6bc",
+  "lastOpenFiles": [
+    "index.md",
+    "notes/drugs/decongestants.md",
+    "notes/drugs/antibiotics.md",
+    "notes/drugs/antipyretics.md",
+    "notes/drugs/antifungals.md",
+    "notes/drugs/cough_meds.md",
+    "notes/general/ecg.md",
+    "notes/abbreviations.md",
+    "notes/drugs",
+    "notes/general",
+    "notes",
+    "abbreviations.md",
+    "general/ecg.md",
+    "files/ecg_lib/heart_post_view.jpg",
+    "files/ecg_lib/heart_cut_section.jpg",
+    "files/ecg_lib/heart_ant_view.jpg",
+    "files/ecg_lib/ECG-waves-segments-and-intervals.jpg",
+    "files/ecg_lib",
+    "files",
+    "drugs/antibiotics.md",
+    "drugs/antipyretics.md",
+    "clinical_diagnosis/00_diagnostic_proc.md",
+    "common_clinical.md",
+    "general/gp/d_and_m/emergemcy.md",
+    "pediatrics/ped_intro.md",
+    "pediatrics/prsc/prsc.md",
+    "pediatrics/prsc/drugs.md",
+    "general/ecg/ecg_detailed.md",
+    "general/ecg/07_what_to_look_for.md",
+    "general/ecg/06_normal_ecg.md",
+    "general/ecg/05_paper_concuction_leads.md",
+    "general/ecg/04_conductivity.md",
+    "general/ecg/03_contractility.md",
+    "general/ecg/02_action_potential.md",
+    "general/ecg/01_heart.md",
+    "pediatrics/prsc",
+    "pediatrics",
+    "notNamedYet/neuro",
+    "notNamedYet/ortho",
+    "notNamedYet/derma"
+  ]
+}
